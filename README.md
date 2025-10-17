@@ -1,7 +1,7 @@
 Hi!
 
-I am currently trying to build something of a repository to partly understand how it works and for a future career
-in IT generally and more specifically in the field of testing
+Not it is the time to update this so I can share it on LinkedIn for instance
+I am a budding tester with interest in coding and this is supposed to reflect this. 
 
 <!---
 phumpeti/phumpeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
